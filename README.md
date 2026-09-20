@@ -2,6 +2,13 @@
 
 **Reliability, measured.**
 
+## Live Demo
+
+🌐 **Live App:** https://relviqo.vercel.app  
+⚙️ **API:** https://relviqo-api.onrender.com
+
+> The backend is hosted on Render's free tier, so the first request may take a little longer if the service has been inactive.
+
 Relviqo is an API reliability and performance monitor I built to make it easier to see what is happening with your endpoints at a glance.
 
 Instead of manually checking whether an API is responding, Relviqo can check endpoints, record response times and HTTP status codes, track uptime, and create incidents when something goes wrong.
@@ -233,7 +240,7 @@ For a production monitoring service, I would move persistent monitoring data to 
 
 For now, Relviqo does what I built it to do: monitor endpoints, measure their reliability, and make failures easier to understand.
 
-I'm keeping this version focused rather than adding features just for the sake of making the project bigger.
+
 
 ---
 
